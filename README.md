@@ -35,15 +35,18 @@ you don't need to worry about free the memory.
     * Growth rates
 
 ## **Intermediate**
-1.
-2.
-3.
-4.
-5.
+1. Sorting Algorithms
+2. Search Algorithms
+3. Graphs
+4. Trees
+5. Parallel Algorithms
 
 ## **Advanced**
-1.
-2.
-3.
-4.
-5.
+1. Hashing
+2. Ordered Search: Trees and Lists
+3. Balanced Search Trees
+4. Heaps, Sets and Tries
+5. Distributed Data Structures
+
+### References:
+>
