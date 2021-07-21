@@ -11,28 +11,29 @@ of low-level features, like pointers. Additionally, Go has a garbage collector (
 you don't need to worry about free the memory.
 
 ## **Basics**
-1. Memory data representation
-    * Primitive Data types
-    * Arrays
-2. Composite data structures
-    * Pointers
-    * Stacks
-    * Queues
-    * Double-Queues
-    * Circular lists
-    * Linked lists
-    * Double-linked lists
-    * Abstract Data types
-3. Strategies for algorithm construction
-    * Greedy algorithms and brute force
-    * Top-down and bottom-up
-    * Divide and conquer
-    * Recursion
-    * Backtracking
-4. Algorithm analysis
-    * Complexity: P vs NP
-    * _O_, _Omega_ and _Theta_ notations
-    * Growth rates
+1. [Memory data representation](/basics/Data_Representation.md)
+   * Primitive Data types
+   * Arrays
+2. [Composite data structures](/basics/Composite_Data_Structures.md)
+   * Pointers
+   * Stacks
+   * Queues
+   * Double-Queues
+   * Linked lists
+   * Double-linked lists
+   * One-way circular linked list
+   * Two-way circular linked list
+   * Abstract Data types
+3. [Strategies for algorithm construction](/basics/Strategies_For_Algorithm_Construction.md)
+   * Greedy algorithms and brute force
+   * Top-down and bottom-up
+   * Divide and conquer
+   * Recursion
+   * Backtracking
+4. [Algorithm analysis](/basics/Algorithm_Analysis.md)
+   * Complexity: P vs NP
+   * _O_, _Omega_ and _Theta_ notations
+   * Growth rates
 
 ## **Intermediate**
 1. Sorting Algorithms
